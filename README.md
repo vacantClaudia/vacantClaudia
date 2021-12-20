@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/vacantClaudia/vacantClaudia/main/img/banniere.png)
+![Cover](https://github.com/vacantClaudia/vacantClaudia/img/banniere.png)
