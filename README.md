@@ -1,9 +1,7 @@
 ### Hi there 👋
+![Cover](https://github.com/vacantClaudia/vacantClaudia/blob/main/img/banniere.png)
 
-<!--
-**vacantClaudia/vacantClaudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 - 🙎‍♀️ Moi c'est Claudia 👋
 - 🏠 Je vie près de Bordeaux, en France.
 - 🌱 J'ai étudié dans le domaine du végétal pour être architecte paysagiste,
@@ -13,6 +11,4 @@ Here are some ideas to get you started:
 - 🏆 J'obtient mon Titre Professionnel Développeuse Web et Web Mobile 🎊
 - ⚡ Je suis prête à mettre en pratique mes connaissances fraîchement acquises 💪
 
--->
 
-![Cover](https://github.com/vacantClaudia/vacantClaudia/blob/main/img/banniere.png)
